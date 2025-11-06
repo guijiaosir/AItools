@@ -10,16 +10,15 @@ You can use the URL API below as your setting parameters; these are confirmed li
 For other links, you'll need to find the relevant documentation yourself. We will also update this information periodically.
 
 
-[url_base]
-gemini：
+[url_base]Please provide other available links in the community if you have already confirmed that they are usable.
+❤gemini：
 https://generativelanguage.googleapis.com/v1beta
 https://api.vectorengine.ai/v1
 
-
-Sora2:
+❤Sora2:
 https://api.vectorengine.ai/v1
 
-wan2.5
+❤wan2.5
 https://api.vectorengine.ai/v1
 
 
