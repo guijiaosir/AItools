@@ -1,1 +1,27 @@
-12345aaaaaaaaaaaaaaaa
+The software currently supports the following APIs: Please note that if you know of other API websites, 
+but they fail to generate results after submission, please submit 【ISSUES】.
+
+[api website]
+https://wavespeed.ai/
+https://api.vectorengine.ai/register?aff=dWcb
+https://passport.compshare.cn/register?referral_code=HOUuY3eoFgEq7LjfdHMwK    
+
+You can use the URL API below as your setting parameters; these are confirmed links. 
+For other links, you'll need to find the relevant documentation yourself. We will also update this information periodically.
+
+
+[url_base]
+gemini：
+https://generativelanguage.googleapis.com/v1beta
+https://api.vectorengine.ai/v1
+
+
+Sora2:
+https://api.vectorengine.ai/v1
+
+wan2.5
+https://api.vectorengine.ai/v1
+
+
+Regarding API keys, please pay for them yourself; we do not provide them.
+You will need to purchase them from your API website. Our software supports virtually all API websites.
