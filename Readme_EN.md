@@ -3,7 +3,7 @@
 Ghost OS AI is an ultra-fast and convenient AI tool that supports multiple tools such as PS, BLENDER, AN, AE, PR, and CapCut. Generate images and videos with one click.
 
 How to USE this software?
-https://kcn3odiegb3y.feishu.cn/wiki/B1mxwONQwirsCBkcucPcyKfnnIb
+https://discord.com/invite/32KQ29FrSB
 
 Our YouTube channel: https://www.youtube.com/@KisameAI
 
