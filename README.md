@@ -2,7 +2,7 @@
 
 Ghost OS AI 一款超快速便捷的AI工具，支援PS,BLENDER,AN,AE,PR,剪映，等多款工具。一鍵生成圖片，一鍵生成影片，一键生成AI漫剧等功能。
 
-如何使用该软件：https://kcn3odiegb3y.feishu.cn/wiki/B1mxwONQwirsCBkcucPcyKfnnIb
+如何使用该软件：https://discord.com/invite/32KQ29FrSB
 
 我们的youtube频道：https://www.youtube.com/@KisameAI
 
