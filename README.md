@@ -34,11 +34,10 @@ https://kcn3odiegb3y.feishu.cn/wiki/B1mxwONQwirsCBkcucPcyKfnnIb?fromScene=spaceO
 一键生成人物发型
 <img width="1461" height="940" alt="image" src="https://github.com/user-attachments/assets/2f7493fa-cfe1-430e-96ac-d68c33de34e0" />
 
-资产设计库
-![Uploading image.png…]()
+剧本系统
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f6da9e42-afd6-4905-a2bb-cb0c33ec50b9" />
 
-提示词造梦系统
-![Uploading image.png…]()
+
 
 
 
