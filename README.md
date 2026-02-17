@@ -11,10 +11,11 @@ Youtube频道：https://www.youtube.com/@KisameAI
 https://kcn3odiegb3y.feishu.cn/wiki/B1mxwONQwirsCBkcucPcyKfnnIb?fromScene=spaceOverview
 
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/95c06135-e78d-49bb-96a4-bf99e6a97581" />
+
 
 支持漫画一键生成
-<img width="821" height="625" alt="image" src="https://github.com/user-attachments/assets/44d3cbeb-75e4-4c1d-af45-0811ee9f2cae" />、
+<img width="935" height="620" alt="image" src="https://github.com/user-attachments/assets/62adc250-b369-4283-90b0-96a6c9a6ee26" />
+
 
 支持短剧快速生成
 <img width="780" height="476" alt="image" src="https://github.com/user-attachments/assets/20d7781c-ea95-496b-bf5f-3d57bc4870ce" />
