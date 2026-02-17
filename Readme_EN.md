@@ -8,9 +8,11 @@ Discord Community: https://discord.com/invite/32KQ29FrSB
 
 YouTube Channel: https://www.youtube.com/@KisameAI
 
-Chinese User Manual:
+English Books:
+https://kcn3odiegb3y.larksuite.com/wiki/CkJqwG8hjit9zVkcXjocNba8nqd?fromScene=spaceOverview
 
-https://kcn3odiegb3y.feishu.cn/wiki/B1mxwONQwirsCBkcucPcyKfnnIb?fromScene=spaceOverview
+
+
 
 Supports one-click comic generation
 
