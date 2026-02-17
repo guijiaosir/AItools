@@ -2,7 +2,6 @@
 
 Ghost OS AI is an ultra-fast and convenient AI tool that supports multiple tools including Photoshop, Blender, Animation, After Effects, Premiere Pro, and CapCut. It offers one-click image generation, one-click video generation, one-click AI animation generation, automatic editing, 3D modeling, and more.
 
-And it's completely free, boasting over 100 AIGC features.
 
 Discord Community: https://discord.com/invite/32KQ29FrSB
 
@@ -28,7 +27,7 @@ A system for absolute image control, like Photoshop's Krita
 
 The only AI editing tool on the entire internet
 
-<img width="1920" height="1010" alt="image" src="https://github.com/user-attachments/assets/a8b0fc2e-313a-4b95-b1d2-fe1dafa02e0b" Supports a storyboard system with 1000 consecutive frames.
+Supports a storyboard system with 1000 consecutive frames.
 
 <img width="1920" height="1010" alt="image" src="https://github.com/user-attachments/assets/d8a9641a-572d-47cc-9fa7-7c40f9534460" />
 
