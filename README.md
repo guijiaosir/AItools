@@ -1,4 +1,4 @@
-<img width="1079" height="604" alt="image" src="https://github.com/user-attachments/assets/ac030fa3-71ad-4cef-bf31-335eb55c91e6" />[简体中文](README.md) | [English](Readme_EN.md)
+[简体中文](README.md) | [English](Readme_EN.md)
 
 Ghost OS AI 一款超快速便捷的AI工具，支援PS,BLENDER,AN,AE,PR,剪映，等多款工具。一鍵生成圖片，一鍵生成影片，一键生成AI漫剧，自动剪辑，3D建模 等功能。
 并且完全免费，拥有超过的AIGC功能。
@@ -14,7 +14,7 @@ https://kcn3odiegb3y.feishu.cn/wiki/B1mxwONQwirsCBkcucPcyKfnnIb?fromScene=spaceO
 
 
 支持漫画一键生成
-<img width="1079" height="604" alt="image" src="https://github.com/user-attachments/assets/1e2a112f-34b4-4db6-900a-798955aae7cd" />
+<img width="1079" height="604" alt="image" src="https://github.com/user-attachments/assets/ac030fa3-71ad-4cef-bf31-335eb55c91e6" />
 
 
 
