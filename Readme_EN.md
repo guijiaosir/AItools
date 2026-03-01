@@ -1,8 +1,8 @@
 [Simplified Chinese](README.md) | [English](Readme_EN.md)
 
-Ghost OS AI is a comprehensive AIGC integrated toolkit with a vast asset library and autonomous permissions.
+Ghost OS AI is a permanently free, comprehensive AIGC integrated toolkit with a vast asset library and autonomous permissions.
 
-It boasts the most comprehensive AI agent suite and features independently developed AI tools. Suitable for e-commerce, gaming, architecture, animation, directing, education, history, narration, and design across various industries. We have added a massive AI agent for the education system! Teachers are welcome to use it!
+It offers the most comprehensive AI agent suite, featuring independently developed AI tools. Suitable for e-commerce, gaming, architecture, animation, directing, education, history, narration, and design across various industries. We have added a vast collection of AI agents for the education system! Teachers are welcome to use it!
 
 Supported Languages: Chinese/English/Vietnamese
 
