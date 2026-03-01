@@ -1,6 +1,10 @@
 [Simplified Chinese](README.md) | [English](Readme_EN.md)
 
-Ghost OS AI is an ultra-fast and convenient AI tool that supports multiple tools including Photoshop, Blender, Animation, After Effects, Premiere Pro, and CapCut. It offers one-click image generation, one-click video generation, one-click AI animation generation, automatic editing, 3D modeling, and more.
+Ghost OS AI is a comprehensive AIGC integrated toolkit with a vast asset library and autonomous permissions.
+
+It boasts the most comprehensive AI agent suite and features independently developed AI tools. Suitable for e-commerce, gaming, architecture, animation, directing, education, history, narration, and design across various industries. We have added a massive AI agent for the education system! Teachers are welcome to use it!
+
+Supported Languages: Chinese/English/Vietnamese
 
 
 Discord Community: https://discord.com/invite/32KQ29FrSB
