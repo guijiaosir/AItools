@@ -1,6 +1,6 @@
 [简体中文](README.md) | [English](Readme_EN.md)
 
-Ghost OS AI【幽灵系统】 是永久免费的综合性的AIGC集成工具箱，拥有庞大的资产库，与自主的权限。
+Ghost OS AI【幽灵系统】 是完全免费的综合性的AIGC集成工具箱，拥有庞大的资产库，与自主的权限。
 AI AGENT 最全面，且拥有自主创新的AI工具。适用于电商，游戏，建筑，动漫，导演，教育，历史，解说，设计。各行业领域。我们新增了庞大的教育体系AI智能体！欢迎各位老师使用！
 支持语言： Chinese/English/Vietnamese
 
