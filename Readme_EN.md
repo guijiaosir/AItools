@@ -15,6 +15,18 @@ English Books:
 https://kcn3odiegb3y.larksuite.com/wiki/CkJqwG8hjit9zVkcXjocNba8nqd?fromScene=spaceOverview
 
 
+Invitation code (If it is used, it will be invalid. Please contact us via Facebook and submit your invitation code.)
+You can contact us via email.
+tY9Rj1wGS5LwGo
+RuBg9iFtECFUzR
+GTtraSJRMgGBBb
+7OOBCsfKLNBgcO
+SIy3s5L1gHhuyf
+ocTTfwz46VeeWq
+YvwTlQWBqXAadh
+vhSF2y2Dlkapvu
+HFvk6YLhNpT3Re
+VMfK6QCYD7DoDq
 
 
 Supports one-click comic generation
