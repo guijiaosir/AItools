@@ -16,6 +16,9 @@ https://kcn3odiegb3y.larksuite.com/wiki/CkJqwG8hjit9zVkcXjocNba8nqd?fromScene=sp
 
 
 Invitation code (If it is used, it will be invalid. Please contact us via Facebook and submit your invitation code.)
+Invitation CODE is FREE
+
+
 You can contact us via email.
 tY9Rj1wGS5LwGo<br>
 RuBg9iFtECFUzR<br>
