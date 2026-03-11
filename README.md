@@ -10,17 +10,17 @@ Youtube频道：https://www.youtube.com/@KisameAI
 中文使用手册：
 https://kcn3odiegb3y.feishu.cn/wiki/B1mxwONQwirsCBkcucPcyKfnnIb?fromScene=spaceOverview
 
-邀请码：（如被使用则失效，请您通过官方渠道申请或参与活动）
-tY9Rj1wGS5LwGo
-RuBg9iFtECFUzR
-GTtraSJRMgGBBb
-7OOBCsfKLNBgcO
-SIy3s5L1gHhuyf
-ocTTfwz46VeeWq
-YvwTlQWBqXAadh
-vhSF2y2Dlkapvu
-HFvk6YLhNpT3Re
-VMfK6QCYD7DoDq
+邀请码：（如被使用则失效，请您通过官方渠道申请或参与活动，邀请码不收取任何费用）
+tY9Rj1wGS5LwGo<br>
+RuBg9iFtECFUzR<br>
+GTtraSJRMgGBBb<br>
+7OOBCsfKLNBgcO<br>
+SIy3s5L1gHhuyf<br>
+ocTTfwz46VeeWq<br>
+YvwTlQWBqXAadh<br>
+vhSF2y2Dlkapvu<br>
+HFvk6YLhNpT3Re<br>
+VMfK6QCYD7DoDq<br>
 
 
 支持漫画一键生成
