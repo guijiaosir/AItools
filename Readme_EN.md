@@ -17,16 +17,16 @@ https://kcn3odiegb3y.larksuite.com/wiki/CkJqwG8hjit9zVkcXjocNba8nqd?fromScene=sp
 
 Invitation code (If it is used, it will be invalid. Please contact us via Facebook and submit your invitation code.)
 You can contact us via email.
-tY9Rj1wGS5LwGo /n
-RuBg9iFtECFUzR
-GTtraSJRMgGBBb
-7OOBCsfKLNBgcO
-SIy3s5L1gHhuyf
-ocTTfwz46VeeWq
-YvwTlQWBqXAadh
-vhSF2y2Dlkapvu
-HFvk6YLhNpT3Re
-VMfK6QCYD7DoDq
+tY9Rj1wGS5LwGo<br>
+RuBg9iFtECFUzR<br>
+GTtraSJRMgGBBb<br>
+7OOBCsfKLNBgcO<br>
+SIy3s5L1gHhuyf<br>
+ocTTfwz46VeeWq<br>
+YvwTlQWBqXAadh<br>
+vhSF2y2Dlkapvu<br>
+HFvk6YLhNpT3Re<br>
+VMfK6QCYD7DoDq<br>
 
 
 Supports one-click comic generation
