@@ -1,17 +1,26 @@
 [简体中文](README.md) | [English](Readme_EN.md)
 
-Ghost OS AI【幽灵系统】 是完全免费的综合性的AIGC集成工具箱，拥有庞大的资产库，与自主的权限。
+象影AI【ELEfun AI】原名：幽灵系统Ghost OS AI 是完全免费的综合性的AIGC集成工具箱，拥有庞大的资产库，与自主的权限。
 AI AGENT 最全面，且拥有自主创新的AI工具。适用于电商，游戏，建筑，动漫，导演，教育，历史，解说，设计。各行业领域。我们新增了庞大的教育体系AI智能体！欢迎各位老师使用！
 支持语言： Chinese/English/Vietnamese
 
 Discord社区：https://discord.com/invite/32KQ29FrSB
-
 Youtube频道：https://www.youtube.com/@KisameAI
 
 中文使用手册：
 https://kcn3odiegb3y.feishu.cn/wiki/B1mxwONQwirsCBkcucPcyKfnnIb?fromScene=spaceOverview
 
-
+邀请码：（如被使用则失效，请您通过官方渠道申请或参与活动）
+tY9Rj1wGS5LwGo
+RuBg9iFtECFUzR
+GTtraSJRMgGBBb
+7OOBCsfKLNBgcO
+SIy3s5L1gHhuyf
+ocTTfwz46VeeWq
+YvwTlQWBqXAadh
+vhSF2y2Dlkapvu
+HFvk6YLhNpT3Re
+VMfK6QCYD7DoDq
 
 
 支持漫画一键生成
