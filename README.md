@@ -5,7 +5,6 @@ AI AGENT 最全面，且拥有自主创新的AI工具。适用于电商，游戏
 支持语言： Chinese/English/Vietnamese
 
 Discord社区：https://discord.com/invite/32KQ29FrSB
-Youtube频道：https://www.youtube.com/@KisameAI
 
 中文使用手册：
 https://kcn3odiegb3y.feishu.cn/wiki/B1mxwONQwirsCBkcucPcyKfnnIb?fromScene=spaceOverview
